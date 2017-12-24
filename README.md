@@ -14,3 +14,8 @@ Steps to use the function:
 	Convert the data type of all the columns for which vectors have to be created to "category"
 	Call the function calcVectors with 2 arguments: Data object passed as a pandas Dataframe and the name of the y variable as string
 	You will get the output of all the categorical variables as vectors
+
+
+##Requirements
+
+Python 3 with keras and tensorflow
